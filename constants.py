@@ -11,9 +11,9 @@ COLORS = {
     "CARD": (40, 42, 58),
     "TEXT": (235, 235, 245),
     "ACCENT": (0, 180, 255),
-    "EMPTY": (255, 255, 255),
-    "WALL": (50, 55, 70),
-    "START": (46, 204, 113),
+    "EMPTY": (200, 200, 200),  # Light gray for the grid lines
+    "WALL": (30, 30, 30),      # Dark for walls
+    "START": (46, 200, 113),
     "TARGET": (231, 76, 60),
     "PATH": (52, 152, 219),
     "FRONTIER": (26, 188, 156),
